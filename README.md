@@ -7,4 +7,6 @@ NOTEBOOKS 1º DAM PYTHON FUNDAENTALS PROGRAACÍON
 
 3. MODULOS-https://github.com/joaq240606fer-collab/Notebooks-DAM/blob/411eb7bb5dcada5bdf52b1724783d7d163894dee/M%C3%B3dulos%20Python.ipynb
 
-4. DICCIONARIOS-
+4. DICCIONARIOS-https://github.com/joaq240606fer-collab/Notebooks-DAM/blob/2e446f19dbfe9959c5fd29e86938fed2f1f50b1f/Diccionarios.ipynb
+
+5. TRY/EXCEPT/FINALLY-
