@@ -9,4 +9,6 @@ NOTEBOOKS 1º DAM PYTHON FUNDAENTALS PROGRAMACÍON
 
 4. DICCIONARIOS-https://github.com/joaq240606fer-collab/Notebooks-DAM/blob/2e446f19dbfe9959c5fd29e86938fed2f1f50b1f/Diccionarios.ipynb
 
-5. TRY/EXCEPT/FINALLY-
+5. TRY/EXCEPT/FINALLY-https://github.com/joaq240606fer-collab/Notebooks-DAM/blob/cb6707e1216b0fb84c3172f15f96954db385ce61/try-except-finally.ipynb
+
+6. VARIABLES-
