@@ -11,4 +11,6 @@ NOTEBOOKS 1º DAM PYTHON FUNDAENTALS PROGRAMACÍON
 
 5. TRY/EXCEPT/FINALLY-https://github.com/joaq240606fer-collab/Notebooks-DAM/blob/cb6707e1216b0fb84c3172f15f96954db385ce61/try-except-finally.ipynb
 
-6. VARIABLES-
+6. VARIABLES-https://github.com/joaq240606fer-collab/Notebooks-DAM/blob/6bb4077fe70bde3439ef55d47884d8889ea5739c/Noteboock_Variables_3.34.ipynb
+
+7. GLOBAL VS LOCAL-
