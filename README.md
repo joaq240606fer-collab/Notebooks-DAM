@@ -13,4 +13,6 @@ NOTEBOOKS 1º DAM PYTHON FUNDAENTALS PROGRAMACÍON
 
 6. VARIABLES-https://github.com/joaq240606fer-collab/Notebooks-DAM/blob/6bb4077fe70bde3439ef55d47884d8889ea5739c/Noteboock_Variables_3.34.ipynb
 
-7. GLOBAL VS LOCAL-
+7. GLOBAL VS LOCAL- https://github.com/joaq240606fer-collab/Notebooks-DAM/blob/43113ce82003efa6e2946875a365cc712c9ce78f/noteboock_global_vs_local_3.35.ipynb
+
+8. RGDA-
