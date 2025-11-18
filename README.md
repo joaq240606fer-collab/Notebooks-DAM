@@ -5,4 +5,6 @@ NOTEBOOKS 1º DAM PYTHON FUNDAENTALS PROGRAACÍON
 
 2. STRINGS-https://github.com/joaq240606fer-collab/Notebooks-DAM/blob/2d52eb125b693be2cb4920e22a8db4a4a13a3ad5/strings.ipynb
 
-3. MODULOS-
+3. MODULOS-https://github.com/joaq240606fer-collab/Notebooks-DAM/blob/411eb7bb5dcada5bdf52b1724783d7d163894dee/M%C3%B3dulos%20Python.ipynb
+
+4. DICCIONARIOS-
